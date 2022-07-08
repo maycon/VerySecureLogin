@@ -211,6 +211,14 @@ iframe {
   font-size: 60px;
 }
 
+.login100-form-message {
+  display: block;
+  font-family: Poppins-Bold;
+  color: #333333;
+  line-height: 1.2;
+  text-align: center;
+}
+
 /*------------------------------------------------------------------
 [ Input ]*/
 
